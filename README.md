@@ -23,6 +23,6 @@
 
 ## Screenshots
 
-<img src="[https://github.com/Rushikeshrd/Bank_Loan_Prediction/](https://github.com/Rushikeshrd/Bank_Loan_Prediction/blob/main/ss1.png)https://github.com/Rushikeshrd/Bank_Loan_Prediction/blob/main/ss1.png">
+<img src="https://github.com/Rushikeshrd/Bank_Loan_Prediction/blob/main/ss1.png">
 
 ## Just follow☝️ me and Star⭐ my repository
